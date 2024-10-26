@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Felipe Lopes</h1>
+<h1 align="left">Hi 👋, I'm Felipe</h1>
 <h3 align="left">A passionate Full-Stack Developer from Brazil. Aiming to be Teach-lead.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
